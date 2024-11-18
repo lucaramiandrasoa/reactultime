@@ -15,7 +15,7 @@ interface HelloProps {
 const HelloPages = ({ name }: HelloProps) => {
   return (
     <>
-      <div>Hello</div>
+      <div>Hello you</div>
 
       <div className='bg-red-600 rounded'>
         <Accordion type="single" collapsible>
